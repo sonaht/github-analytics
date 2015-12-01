@@ -1,5 +1,5 @@
 FROM ubuntu
-MAINTAINER Nikolas Vourlakis <nvourlakis@gmail.com>
+MAINTAINER Nikolas Vourlakis <nvourlakis@gmail.gr>
 RUN apt-get -y update
 RUN apt-get -y install nodejs
 RUN apt-get -y install npm
